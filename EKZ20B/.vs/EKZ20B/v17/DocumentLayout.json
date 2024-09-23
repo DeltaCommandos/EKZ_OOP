@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\EKZ20B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1EBA9-BD3D-4473-98B2-2417B5889B34}|EKZ20B\\EKZ20B.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ekz20b\\ekz20b\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1EBA9-BD3D-4473-98B2-2417B5889B34}|EKZ20B\\EKZ20B.csproj|solutionrelative:ekz20b\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1EBA9-BD3D-4473-98B2-2417B5889B34}|EKZ20B\\EKZ20B.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ekz20b\\ekz20b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1EBA9-BD3D-4473-98B2-2417B5889B34}|EKZ20B\\EKZ20B.csproj|solutionrelative:ekz20b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\EKZ20B\\EKZ20B\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EKZ20B\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\EKZ20B\\EKZ20B\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EKZ20B\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:23:32.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\EKZ20B\\EKZ20B\\Program.cs",
+              "RelativeDocumentMoniker": "EKZ20B\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\EKZ20B\\EKZ20B\\Program.cs",
+              "RelativeToolTip": "EKZ20B\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:08:45.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

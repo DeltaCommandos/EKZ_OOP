@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uu/Ps4lBn6jZMK8Z/5vb1eQ4NJaUXa09Rrymjxx2tB8pVBmZkQkiiQ/w51UTWdXeOwg1Skrw/Met4ZnMA2pkLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\EKZ20B\\EKZ20B\\EKZ20B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.openapi\\1.6.21\\microsoft.openapi.1.6.21.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.0\\swashbuckle.aspnetcore.swagger.6.8.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.0\\swashbuckle.aspnetcore.swaggergen.6.8.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.0\\swashbuckle.aspnetcore.swaggerui.6.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

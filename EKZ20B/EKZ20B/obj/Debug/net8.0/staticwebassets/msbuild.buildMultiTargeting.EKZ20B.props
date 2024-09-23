@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EKZ20B.props" />
+</Project>
